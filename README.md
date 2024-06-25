@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 I am here to Learn & Contribute
 
  About Me 
--🌱 I’m currently learning Web Development.
--👨‍💻 Wanna see my Portfolio? https://
--💬 Ask me about Data Structure and Algorithms, HTML, CSS, JavaScript.
--📫 How to reach me? verma.ruchi0123@gmail.com
+- 🌱 I’m currently learning Web Development.
+- 👨‍💻 Wanna see my Portfolio? https://
+- 💬 Ask me about Data Structure and Algorithms, HTML, CSS, JavaScript.
+- 📫 How to reach me? verma.ruchi0123@gmail.com
 
 
  Connect with me:
