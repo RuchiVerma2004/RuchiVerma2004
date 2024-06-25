@@ -25,12 +25,11 @@ I am here to Learn & Contribute
 - 📫 How to reach me? verma.ruchi0123@gmail.com
 
 
- Connect with me:
-LinkedIn Leetcode GitHub  
+## 🛠️ Skills
 
- Tech Stack:
-C++ CSS3 HTML5 JavaScript Python Heroku Vercel Bootstrap Express.js jQuery NPM NodeJS React MongoDB MySQL Postman
+- **Languages:** C, C++, Java, Python, JavaScript
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, Kubernetes
+- **Databases:** MySQL, MongoDB, PostgreSQL
 
- GitHub Stats:
-    
- Quote:
+
